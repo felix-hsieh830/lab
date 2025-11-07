@@ -11,7 +11,7 @@ int main(void)
     char choice;
     printf("1+2+...+n=?請輸入n=\n");
     scanf("%d", &n);
-    printf("請問要做奇數和(0),偶數和(E),還是整數和(I)?請選擇:\n");
+    printf("請問要做奇數和(O),偶數和(E),還是整數和(I)?請選擇:\n");
     scanf(" %c", &choice);
 
     switch (choice)
