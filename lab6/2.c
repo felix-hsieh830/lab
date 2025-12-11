@@ -39,6 +39,5 @@ int main(void)
     printf("\n\n");
 
     system("pause");
-
     return 0;
 }
